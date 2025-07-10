@@ -1,0 +1,24 @@
+# Python __pycache__
+__pycache__/
+**/__pycache__/
+
+# Python bytecode
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# SQLite database (ถ้าเป็นไฟล์ DB ที่สร้างอัตโนมัติ)
+*.db
+
+# VSCode settings (ถ้ามี)
+.vscode/
+
+# MacOS hidden files
+.DS_Store
+
+# PyCharm
+.idea/
